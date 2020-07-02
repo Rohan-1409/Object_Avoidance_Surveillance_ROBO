@@ -54,7 +54,7 @@ GPS Tracking Device:
 
 •	We ourselves turn the robot in a desired direction when the robot approaches any obstacle.
 
-•	In this way we get a large number of learning data which shows the instantaneous speeds of both the left wheel and right wheel with the respective distances between SONAR and the obstacle. A piece of learning data is also shared as an excel sheet.
+•	In this way we get a large number of learning data which shows the instantaneous speeds of both the left wheel and right wheel with the respective distances between SONAR and the obstacle. A piece of learning data is also shared as an excel sheet (mobrobo.csv)
 
 
 ->Linear Regression Machine Learning Algorithm
